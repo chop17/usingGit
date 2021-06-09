@@ -1,0 +1,1 @@
+document.querySelectorAll("button",()=>{console.log("doin nothin")});
